@@ -1,3 +1,5 @@
 the rainbow
-pruple
+purple
+orange
 pink
+green
